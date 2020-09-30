@@ -3,7 +3,7 @@ Digital stopwatch using MERN stack
 
 # How To Start
 *First Run npm install to install all dependencies </br>
-*Start Backend server :: cd backend && npm start  </br>
+*Start Backend server :: cd backend && node index.js  </br>
 *Start Database :: Ran on local mongodb using mongoose  </br>
                  /Users/mongodb/bin/mongod.exe --dbpath=/Users/MongoDB-data </br>
 *Start Frontend server:: cd frontend && npm start </br>
